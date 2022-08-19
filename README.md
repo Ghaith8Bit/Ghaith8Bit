@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghaith8Bit .
-- 👀 I’m interested in ( C++ , PHP , SQL , Bash , Lunix Hacking Tools ) .
+- 👀 I’m interested in ( PHP , SQL , Laravel ) .
 - 🌱 I’m currently learning PHP .
 - 💞️ I’m looking to collaborate on Back-End Projects .
 - 📫 You can reach me on my E-mail : ghaithhamwi123@outlook.com 
