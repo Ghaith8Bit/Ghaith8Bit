@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a PHP developer with 2 years of experience working with Laravel. My expertise is in backend development, specifically in implementing CRUD permissions and authorization for web applications. I have a strong understanding of object-oriented programming in PHP and am comfortable working with APIs. I recently worked for Eli-Syr for a year, where I contributed to several backend projects for their dashboard application. In addition to my backend skills, I also have experience with HTML, CSS, and Tailwind CSS. I love problem-solving and am always looking for new challenges to tackle. Check out my GitHub profile for examples of my work!
+Hi there! I'm a PHP developer with 4 years of experience working with Laravel. My expertise is in backend development, specifically in implementing CRUD permissions and authorization for web applications. I have a strong understanding of object-oriented programming in PHP and am comfortable working with APIs. I recently worked for Eli-Syr for a year, where I contributed to several backend projects for their dashboard application. In addition to my backend skills, I also have experience with HTML, CSS, and Tailwind CSS. I love problem-solving and am always looking for new challenges to tackle. Check out my GitHub profile for examples of my work!
 
 
 ## 🌐 Socials:
