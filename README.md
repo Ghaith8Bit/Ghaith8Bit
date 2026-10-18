@@ -1,13 +1,25 @@
-# 💫 About Me:
-Hi there! I'm a PHP developer with 4 years of experience working with Laravel. My expertise is in backend development, specifically in implementing CRUD permissions and authorization for web applications. I have a strong understanding of object-oriented programming in PHP and am comfortable working with APIs. I recently worked for Eli-Syr for a year, where I contributed to several backend projects for their dashboard application. In addition to my backend skills, I also have experience with HTML, CSS, and Tailwind CSS. I love problem-solving and am always looking for new challenges to tackle. Check out my GitHub profile for examples of my work!
+# Hey, I'm Ghaith 👋
 
+### Software Engineer | Backend Systems & Automation
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghaith-el-hamwi) 
+I've always seen programming as a way to solve problems, not just write code.
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+It started back in school when I decided to write a program to solve a mathematics problem instead of doing it manually. What fascinated me wasn't just that it worked, but the realization that I could build something to solve a problem for me.
+
+That curiosity turned into years of exploring how systems work, finding their limitations, and figuring out ways to make them better.
+
+I've worked on everything from digitizing business operations and automating repetitive workflows to building backend systems, integrating services, and working with data.
+
+What I enjoy most is tackling problems that don't have obvious solutions. Sometimes that means designing something from scratch. Other times, it means understanding an existing system deeply enough to find a way around its limitations.
+
+I'm particularly interested in **backend architecture, concurrency, distributed systems, and performance engineering**. I want to understand not just how to make software work, but how to make it reliable, efficient, and scalable.
+
+I believe good engineering isn't about knowing every tool. It's about understanding problems, asking the right questions, and being willing to learn whatever it takes to solve them.
+
+Always curious. Always building.
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Ghaith8Bit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Let's connect
+
+[LinkedIn](https://linkedin.com/in/ghaith-el-hamwi)
